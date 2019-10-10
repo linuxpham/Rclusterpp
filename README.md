@@ -1,4 +1,5 @@
 # Rclusterpp -- Large-scale hierarchical clustering in R
+# C++ library
 
 Rclusterpp provides flexible native hierarchical clustering routings optimized
 for performance and minimal memory requirements. In particular Rclusterpp
